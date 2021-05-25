@@ -18,7 +18,7 @@
     ·
     <a href="https://github.com/barbarbar338/readme-template/issues">Request Feature</a>
     ·
-    <a href="https://bariscodes.me/">Some link</a>
+    <a href="https://barbarbar338.fly.dev">Some link</a>
   </p>
 </p>
 
